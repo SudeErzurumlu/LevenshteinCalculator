@@ -45,3 +45,26 @@ Given two strings `A` and `B`, the distance `dp[i][j]` between substrings `A[0..
 
 ## Example
 
+Enter the first word: kitten  
+Enter the second word: sitting  
+
+**Levenshtein Distance:** 4  
+**Similarity Ratio:** 0.67  
+
+**Comparison Details:**  
+  - String 1 Length: 6  
+  - String 2 Length: 7  
+  - Max Length: 7  
+
+**Distance with Costs:**  
+  - Deletion Cost: 1  
+  - Insertion Cost: 1  
+  - Substitution Cost: 2  
+
+
+## License
+
+This project is licensed under the MIT License.
+
+
+
